@@ -1,0 +1,17 @@
+   *** Version History ***
+   
+   
+V-0.1.0: Unofficial Release
+Released: 02/24/2016
+**Libraries**
+GCorev0.1.5
+
+  --  Simple FTP server and client for easy file transfer between computers.
+  
+  --  To use just instantiate the classes and then execute start/ connect for
+      servers and clients repectively.
+      
+  --  Provides FileIO classes if you want to implement your own ftp instead of
+      using the built in one, in this case you can use the bit counter class
+      in gcore to keep track of how many bits have been sent at any given point 
+      in time.
